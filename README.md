@@ -7,3 +7,4 @@ Unity 연습 및 감각 유지 삼아 만든 초간단 게임들입니다. 특�
 * 1. [Three-by-Three 퍼즐 게임](https://github.com/showmanlee/Toynitys/tree/master/ThreeByThreeMatching)
 * 2. [산성비 게임](https://github.com/showmanlee/Toynitys/tree/master/RainGame)
 * 3. [마우스 포인터 슈팅 게임](https://github.com/showmanlee/Toynitys/tree/master/shooterPlayground)
+* 4. [2048 게임](https://github.com/showmanlee/Toynitys/tree/master/The2048Game)
